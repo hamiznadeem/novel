@@ -137,7 +137,7 @@ $search_query = isset($_GET['search']) ? trim($_GET['search']) : '';
                     Islamic Library <span class="text-teal-main">—</span>
                 </h3>
                 <a href="islamic.php" class="group flex items-center space-x-2 text-[#0F172A] font-black text-[10px] uppercase tracking-widest">
-                    <span>Explore More</span>
+                    <span>View All</span>
                     <svg class="transform group-hover:translate-x-1 transition-transform" width="14" height="14" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24"><path d="M9 5l7 7-7 7"/></svg>
                 </a>
             </div>
@@ -158,7 +158,7 @@ $search_query = isset($_GET['search']) ? trim($_GET['search']) : '';
                     Fictional Worlds <span class="text-teal-main">—</span>
                 </h3>
                 <a href="fictional.php" class="group flex items-center space-x-2 text-[#0F172A] font-black text-[10px] uppercase tracking-widest">
-                    <span>Discover More</span>
+                    <span>View All</span>
                     <svg class="transform group-hover:translate-x-1 transition-transform" width="14" height="14" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24"><path d="M9 5l7 7-7 7"/></svg>
                 </a>
             </div>
